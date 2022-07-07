@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 06 20:30:55 CST 2022","Wed Jul 06 20:34:37 CST 2022","222893","testcase","comparison_test","TestComparison","","","token price comparison with CMC",""
+"passed","Wed Jul 06 20:45:53 CST 2022","Wed Jul 06 20:49:45 CST 2022","231436","testcase","comparison_test","TestComparison","","","token price comparison with CMC",""
+"passed","Wed Jul 06 20:38:20 CST 2022","Wed Jul 06 20:42:06 CST 2022","225738","testcase","comparison_test","TestComparison","","","token price comparison with CMC",""
+"passed","Wed Jul 06 20:34:37 CST 2022","Wed Jul 06 20:38:20 CST 2022","222483","testcase","comparison_test","TestComparison","","","token price comparison with CMC",""
+"passed","Wed Jul 06 20:42:06 CST 2022","Wed Jul 06 20:45:53 CST 2022","227514","testcase","comparison_test","TestComparison","","","token price comparison with CMC",""

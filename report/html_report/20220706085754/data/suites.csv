@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Jul 06 08:57:55 CST 2022","Wed Jul 06 08:59:10 CST 2022","75444","testcase","comparison_test","TestComparison","","","token price comparison with CMC",""

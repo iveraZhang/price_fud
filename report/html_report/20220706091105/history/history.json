@@ -1,0 +1,1 @@
+{"1f9552a32dadced372ab9dacfe7fa487":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"29863074c39bcfe7","status":"broken","statusDetails":"AttributeError: 'TestComparison' object has no attribute 'num'","time":{"start":1657069837171,"stop":1657069837171,"duration":0}}]}}

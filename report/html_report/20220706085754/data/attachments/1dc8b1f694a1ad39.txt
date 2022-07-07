@@ -1,0 +1,3 @@
+INFO     tools.log_handle:log_handle.py:125 [34mchoose CMC to compare[0m
+INFO     tools.log_handle:log_handle.py:125 [34mCMC's URL：
+https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest[0m

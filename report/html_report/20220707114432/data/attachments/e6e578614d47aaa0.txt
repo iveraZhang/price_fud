@@ -1,0 +1,36 @@
+INFO     tools.log_handle:log_handle.py:125 [34mchoose CMC to compare[0m
+INFO     tools.log_handle:log_handle.py:125 [34mCMC's URL：
+https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest[0m
+INFO     tools.log_handle:log_handle.py:125 [34m5632[0m
+INFO     tools.log_handle:log_handle.py:125 [34m512[0m
+INFO     tools.log_handle:log_handle.py:125 [34m1[0m
+INFO     tools.log_handle:log_handle.py:125 [34m1027[0m
+INFO     tools.log_handle:log_handle.py:125 [34m2563[0m
+INFO     tools.log_handle:log_handle.py:125 [34m3077[0m
+INFO     tools.log_handle:log_handle.py:125 [34m2566[0m
+INFO     tools.log_handle:log_handle.py:125 [34m2[0m
+INFO     tools.log_handle:log_handle.py:125 [34m8719[0m
+INFO     tools.log_handle:log_handle.py:125 [34m5647[0m
+INFO     tools.log_handle:log_handle.py:125 [34m2577[0m
+INFO     tools.log_handle:log_handle.py:125 [34m7186[0m
+INFO     tools.log_handle:log_handle.py:125 [34m3602[0m
+INFO     tools.log_handle:log_handle.py:125 [34m2071[0m
+INFO     tools.log_handle:log_handle.py:125 [34m11289[0m
+INFO     tools.log_handle:log_handle.py:125 [34m2586[0m
+INFO     tools.log_handle:log_handle.py:125 [34m541[0m
+INFO     tools.log_handle:log_handle.py:125 [34m13855[0m
+INFO     tools.log_handle:log_handle.py:125 [34m1567[0m
+INFO     tools.log_handle:log_handle.py:125 [34m5665[0m
+INFO     tools.log_handle:log_handle.py:125 [34m4642[0m
+INFO     tools.log_handle:log_handle.py:125 [34m2083[0m
+INFO     tools.log_handle:log_handle.py:125 [34m2087[0m
+INFO     tools.log_handle:log_handle.py:125 [34m10791[0m
+INFO     tools.log_handle:log_handle.py:125 [34m5161[0m
+INFO     tools.log_handle:log_handle.py:125 [34m9258[0m
+INFO     tools.log_handle:log_handle.py:125 [34m6187[0m
+INFO     tools.log_handle:log_handle.py:125 [34m3628[0m
+INFO     tools.log_handle:log_handle.py:125 [34m2099[0m
+INFO     tools.log_handle:log_handle.py:125 [34m52[0m
+INFO     tools.log_handle:log_handle.py:125 [34m3635[0m
+INFO     tools.log_handle:log_handle.py:125 [34m3640[0m
+INFO     tools.log_handle:log_handle.py:125 [34m5690[0m
