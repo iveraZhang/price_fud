@@ -24,7 +24,7 @@ class CompareToken(object):
         params1["limit"]=5000
         header1["X-CMC_PRO_API_KEY"]=readConfig("cmc_key","CMCApiKey")
         header2["Authorization"]=self.engineKey
-        theStatusFromTheCMCApi = requests.get(url=self.cmcTokenUrl, params=params1, headers=header1)
+        theStatusFromTheCMCApi = requests.get(url=self.cmcTokenUrl, params=params1, headers=header1，verify=False)
         if theStatusFromTheCMCApi.status_code == 200:
             log.info(f"CMC's status_code:\r\n{theStatusFromTheCMCApi.status_code},get data from CMC success")
             theListFromTheCMCApi = theStatusFromTheCMCApi.json()["data"]
